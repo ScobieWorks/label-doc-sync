@@ -1,0 +1,1 @@
+"""LabelDocSync package."""
