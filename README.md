@@ -56,6 +56,8 @@ label-doc-sync --help
 ```
 
 
+<!-- ORION-MONETIZATION:START -->
 ## Support
 
-If this project saved you time, optional support is welcome: https://paypal.me/Damonwill
+Donate via PayPal to support continued maintenance: https://paypal.me/Damonwill
+<!-- ORION-MONETIZATION:END -->
